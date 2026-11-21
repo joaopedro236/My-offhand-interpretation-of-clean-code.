@@ -7,6 +7,11 @@ Anotações pessoais sobre o livro **Clean Code**, de Robert C. Martin (Uncle Bo
 
 Este README contém um resumo do que consegui absorver durante a leitura, com minhas próprias palavras e interpretações.
 
+não irá ter desafios e etc, apenas minha interpretação sobre a leitura.
+
+Personal notes on the book **Clean Code**, by Robert C. Martin (Uncle Bob).
+
+This README contains a summary of what I absorbed during the reading, in my own words and interpretations.
 ---
 
 # 🇧🇷 Português
@@ -133,6 +138,7 @@ Some chapters were not included in this summary because I could not remember all
 
 This README represents my personal understanding of the book, not a complete technical summary.
 
+Alguns capítulos não foram incluídos neste resumo porque não me lembrava de todos os detalhes. Também omiti alguns conteúdos por serem muito focados em Java, enquanto minha experiência em programação é mais voltada para Java.
 ---
 
 **Book:** Clean Code  
