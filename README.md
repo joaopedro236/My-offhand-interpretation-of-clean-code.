@@ -25,7 +25,7 @@ Esse capítulo apresenta o que é o código ruim. Ele fala sobre os motivos pelo
 Nomes de variáveis que falem sobre si mesmas, nomes sem criptografia, nomes sem zoeira ou brincadeiras e nomes não muito longos.
 
 ### Capítulo 3 — Funções
-Conceito de DRY (sem repetição), nomes de funções e quantidade de parâmetros.
+Conceito de DRY (sem repetição), nomes de funções e quantidade de parâmetros, e o SRP (responsabilidade unica)
 
 ### Capítulo 4 — Comentários
 Sem comentários muito grandes, comentários realmente significativos e não pode haver comentários em que a própria linha já se explica.
@@ -88,7 +88,7 @@ This chapter introduces what bad code is. It discusses why code becomes bad (dea
 Variable names should describe themselves, avoid cryptic names, avoid jokes or inappropriate names, and should not be unnecessarily long.
 
 ### Chapter 3 — Functions
-The concept of DRY (Don't Repeat Yourself), function names, and the number of parameters.
+The concept of DRY (Don't Repeat Yourself), function names, and the number of parameter and SRP (Single Responsibility)
 
 ### Chapter 4 — Comments
 Avoid overly long comments. Comments should provide meaningful information, and there should be no comments explaining what the code already makes obvious.
